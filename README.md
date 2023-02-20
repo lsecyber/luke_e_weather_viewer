@@ -10,7 +10,7 @@ The script requires Sinatra v3.0.4 or newer. If you don't already have it instal
 The script also requires ruby 3.2.1 or newer.
 
 #### Other Installation
-No additional instaliation is required.
+No additional installation is required.
 
 ## Running
 To run the script, simply navigate to the directory you cloned this git repository to and run the following command:
@@ -22,9 +22,9 @@ This will run the Sinatra application with a link at the bottom. To view the app
 #### Navigation
 The Weather Viewer has 3 main panels.
 
-To the left, it display's today's current temperature, an icon representing night, sunny, cloudy, partially cloudy, or raining, as well as the high/low for the current day.
+To the left, it displays today's current temperature, an icon representing night, sunny, cloudy, partially cloudy, or raining, as well as the high/low temperatures for the current day.
 
-The top right panel is the 7 day forcast. Each day contains an icon representing the cloud/rain conditions, as well as the high/low temps.
+The top right panel is the 7 day forecast. Each day contains an icon representing the cloud/rain conditions, as well as the high/low temps.
 
 The bottom right panel is a bar graph representing the 7-day temperature highs and lows.
 
