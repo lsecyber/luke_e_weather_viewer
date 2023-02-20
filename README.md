@@ -21,6 +21,8 @@ This will run the Sinatra application with a link at the bottom. To view the app
 ## User Interface
 #### Navigation
 The Weather Viewer has 3 main panels.
+![Screen Shot 2023-02-20 at 12 12 34 AM](https://user-images.githubusercontent.com/99271670/220014771-5ae55660-d871-4c60-b82c-9f74a9c4d93c.png)
+
 
 To the left, it displays today's current temperature, an icon representing night, sunny, cloudy, partially cloudy, or raining, as well as the high/low temperatures for the current day.
 
