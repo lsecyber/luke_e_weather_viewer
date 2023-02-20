@@ -28,5 +28,5 @@ The top right panel is the 7 day forcast. Each day contains an icon representing
 
 The bottom right panel is a bar graph representing the 7-day temperature highs and lows.
 
-####Updating Data
+#### Updating Data
 To update the data displaying on the screen, simply refresh the page. This will display the most up to date information.
